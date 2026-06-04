@@ -47,4 +47,4 @@ Before creating any design asset:
 ## Version
 
 Current Version: v1.0
-Status: Internal / Private
+Status: Internal / Public
