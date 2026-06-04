@@ -1,0 +1,140 @@
+# Project Information
+
+Project Name: Sample Project
+
+Industry: SaaS
+
+Platform:
+  - Mobile
+
+Library Scope: Core
+
+Style: Enterprise SaaS
+
+Theme:
+  - Light
+
+Density: Default
+
+Border Radius Preference: Medium
+
+---
+
+# Brand Colors
+
+Primary Color 500: "#8B5CF6"
+
+Secondary Color 500: "#353947"
+
+Success Color 500: "#22C55E"
+
+Warning Color 500: "#F59E0B"
+
+Error Color 500: "#EF4444"
+
+Info Color 500: "#3B82F6"
+
+---
+
+# Typography
+
+Primary Font: Inter
+
+Secondary Font: Inter
+
+---
+
+# Accessibility
+
+Accessibility Level: WCAG AA
+
+Minimum Contrast Ratio: 4.5
+
+---
+
+# Design Preferences
+
+Design Language: Modern
+
+Visual Style: Clean
+
+Motion Level: Moderate
+
+Icon Style: Rounded
+
+Illustration Style: Optional
+
+---
+
+# Product Requirements
+
+Requires Tables: true
+
+Requires Forms: true
+
+Requires Dashboard: true
+
+Requires Search: true
+
+Requires Empty States: true
+
+Requires Notifications: true
+
+Requires File Upload: false
+
+Requires Data Visualization: false
+
+---
+
+# Navigation
+
+Navigation Type: Bottom Navigation
+
+Secondary Navigation: Tabs
+
+---
+
+# Table Preferences
+
+Density:
+  - Compact
+  - Default
+  - Comfortable
+
+Enable Sorting: true
+
+Enable Filtering: true
+
+Enable Row Selection: true
+
+---
+
+# Form Preferences
+
+Floating Labels: false
+
+Helper Text: true
+
+Inline Validation: true
+
+---
+
+# Output Requirements
+
+Generate Foundations: true
+
+Generate Atoms: true
+
+Generate Molecules: true
+
+Generate Organisms: true
+
+Generate Templates: true
+
+Generate Documentation: true
+
+Generate Variable Structure: true
+
+Generate Token Structure: true
+
+Generate Figma File Structure: true
